@@ -88,32 +88,6 @@ Ou avec Docker Compose :
 
 docker-compose up -d
 
-📚 Structure du Projet
-
-erp-algeria/
-├── app/
-│   ├── main.py                 # Point d'entrée principal
-│   ├── database.py             # Configuration base de données
-│   ├── config.py               # Configuration générale
-│   ├── models/                 # Modèles SQLAlchemy
-│   │   ├── full_crm_erp.py
-│   │   ├── full_hr_erp.py
-│   │   └── ...
-│   ├── routers/                # Routes FastAPI
-│   │   ├── full_crm_erp_router.py
-│   │   ├── full_hr_erp_router.py
-│   │   └── ...
-│   ├── templates/              # Templates HTML
-│   │   └── index.html
-│   └── static/                 # Fichiers statiques
-│       ├── css/
-│       ├── js/
-│       └── images/
-├── requirements.txt
-├── Dockerfile
-├── docker-compose.yml
-└── README.md
-
 🔧 Configuration
 Variables d'environnement
 
