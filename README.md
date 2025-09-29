@@ -4,6 +4,13 @@
 
 ERP Algeria est un système de gestion d'entreprise (Enterprise Resource Planning) complet et moderne, spécialement conçu pour répondre aux besoins des entreprises algériennes. Ce système intègre plus de 30 modules métiers couvrant tous les aspects de la gestion d'entreprise.
 
+<img width="766" height="1001" alt="image" src="https://github.com/user-attachments/assets/b6055e2e-efa5-458e-8afa-eb24f7001a7d" />
+<img width="760" height="834" alt="image" src="https://github.com/user-attachments/assets/b1caff22-05dc-4af9-81a3-3d1c1de85ef2" />
+<img width="781" height="798" alt="image" src="https://github.com/user-attachments/assets/cb2a4474-63e0-492d-8b33-cdff8455fcef" />
+<img width="796" height="837" alt="image" src="https://github.com/user-attachments/assets/02804cbf-362c-4046-9eae-0ec95d814572" />
+<img width="808" height="999" alt="image" src="https://github.com/user-attachments/assets/40e45230-ea4c-4695-93b1-6ac9af983d50" />
+
+
 ## 🚀 Fonctionnalités Principales
 
 ### Modules Principaux
@@ -42,7 +49,7 @@ ERP Algeria est un système de gestion d'entreprise (Enterprise Resource Plannin
 - **Frontend**: HTML5, CSS3, JavaScript, Bootstrap
 - **Desktop**: PyWebView pour l'application bureau
 - **ORM**: SQLAlchemy
-- **Templates**: Jinja2
+
 
 ## 📋 Prérequis
 
