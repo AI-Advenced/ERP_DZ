@@ -1,0 +1,42 @@
+
+## requirements.txt
+
+```txt
+# FastAPI et dépendances principales
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-multipart==0.0.6
+jinja2==3.1.2
+
+# Base de données et ORM
+sqlalchemy==2.0.23
+alembic==1.13.1
+psycopg2-binary==2.9.9
+
+# Interface desktop
+pywebview==4.4.1
+
+# Authentification et sécurité
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+python-decouple==3.8
+
+# Validation et sérialisation
+pydantic==2.5.0
+pydantic-settings==2.1.0
+
+# Utilitaires
+python-dateutil==2.8.2
+openpyxl==3.1.2
+xlsxwriter==3.1.9
+reportlab==4.0.7
+pillow==10.1.0
+
+# Tests
+pytest==7.4.3
+pytest-asyncio==0.21.1
+pytest-cov==4.1.0
+httpx==0.25.2
+
+# Production
+gunicorn==21.2.0
